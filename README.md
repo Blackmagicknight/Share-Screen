@@ -1,5 +1,5 @@
 # Share-Screen
-*<h4>UNFINISHED | MISSING MANY FEATURES</h4>*
+*<h4>UNFINISHED | STILL IN DEVELOPMENT</h4>*
 A simple python script that shares your screen in Python
 
 ## Usage
