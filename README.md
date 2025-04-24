@@ -18,7 +18,7 @@ A simple python script that shares your screen in Python
 - Adjustable screen share size on client
 - Changeable port on client
 - View client stream on server
-- modify client stream with [Open CV](https://opencv.org/) on client or server
+- Modify client stream with [Open CV](https://opencv.org/) on client or server
 
 ## Preview
 
